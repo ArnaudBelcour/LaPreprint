@@ -63,7 +63,7 @@
     \textbf{Chem}\textcolor{lightgray}{Rxiv}
   \fi
   \if@hal
-    $\overset{\textcolor{blue}{HAL}}{\textcolor{orange}{open\ science}}$
+    \rlap{\textsuperscript{\textcolor{blue}{\textbf{HAL}}}}\textsubscript{\textcolor{orange}{open science}}
   \fi
 }
 
